@@ -7,6 +7,7 @@
 # Termania.net Lookup Edge Extension
 
 [![GitHub license](https://img.shields.io/github/license/techouse/termania-edge-extension)](https://github.com/techouse/termania-edge-extension/blob/master/LICENSE)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/6be0d74d241c41bfb0de3cd72344df2f)](https://www.codacy.com/manual/techouse/termania-edge-extension?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=techouse/termania-edge-extension&amp;utm_campaign=Badge_Grade)
 ![GitHub manifest.json dynamic](https://img.shields.io/github/manifest-json/permissions/techouse/termania-edge-extension)
 
 This Microsoft Edge extension enables foreigners as well as Slovenian native speakers to search the extensive Slovenian
