@@ -62,7 +62,7 @@ npm run build
 ```
 
 The finished extension will present itself in a directory called `build`. From there you can
-[load it as an unpacked extension](https://stackoverflow.com/questions/24577024/install-edge-extension-not-in-the-store).
+[load it as an unpacked extension](https://stackoverflow.com/questions/24577024/install-chrome-extension-not-in-the-store).
 
 [0]: https://www.termania.net
 [1]: https://en.wikipedia.org/wiki/Lemma_(morphology)
