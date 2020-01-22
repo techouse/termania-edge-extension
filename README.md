@@ -18,7 +18,7 @@ I wanted to build something that actually solves a problem and helps people, esp
 who are trying to learn the Slovenian language.
 
 ## How do I install it? :rocket:
-TBA ...
+Simply visit Microsoft Edge Addons and [download][4] it.
 
 ## Is there a Chrome version? :crystal_ball:
 Yes and it can be accessed [here][2].
@@ -74,3 +74,4 @@ The finished extension will present itself in a directory called `build`. From t
 [1]: https://en.wikipedia.org/wiki/Lemma_(morphology)
 [2]: https://chrome.google.com/webstore/detail/termanianet-lookup/glpefieanjalchgipjpafmhljaedgndf
 [3]: https://addons.mozilla.org/en-US/firefox/addon/termania-net-lookup/
+[4]: https://microsoftedge.microsoft.com/addons/detail/ilcmiijniabejbjeedjlfpnepagjkmke
